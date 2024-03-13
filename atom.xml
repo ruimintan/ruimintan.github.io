@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>森海北屿 ღ</title>
+  
+  <subtitle>热爱可抵岁月漫长</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ruimintan.github.io/"/>
+  <updated>2021-09-09T15:23:50.000Z</updated>
+  <id>https://ruimintan.github.io/</id>
+  
+  <author>
+    <name>ruimin.tan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>VSCode常用快捷键-Mac</title>
+    <link href="https://ruimintan.github.io/posts/b6530799.html"/>
+    <id>https://ruimintan.github.io/posts/b6530799.html</id>
+    <published>2021-09-09T15:12:51.000Z</published>
+    <updated>2021-09-09T15:23:50.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;常用&quot;&gt;&lt;a href=&quot;#常用&quot; class=&quot;headerlink&quot; title=&quot;常用&quot;&gt;&lt;/a&gt;常用&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;Option + Up 向上移动行&lt;br&gt;Option + Down 向下移动行&lt;br&gt;Option +
+        
+      
+    
+    </summary>
+    
+      <category term="开发工具" scheme="https://ruimintan.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="vscode" scheme="https://ruimintan.github.io/tags/vscode/"/>
+    
+      <category term="快捷键" scheme="https://ruimintan.github.io/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>react脚手架配置代理总结</title>
+    <link href="https://ruimintan.github.io/posts/1b29d888.html"/>
+    <id>https://ruimintan.github.io/posts/1b29d888.html</id>
+    <published>2021-09-08T14:16:24.000Z</published>
+    <updated>2021-09-08T14:27:46.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;方法一：单个代理&quot;&gt;&lt;a href=&quot;#方法一：单个代理&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="react" scheme="https://ruimintan.github.io/categories/react/"/>
+    
+    
+      <category term="react" scheme="https://ruimintan.github.io/tags/react/"/>
+    
+      <category term="react脚手架" scheme="https://ruimintan.github.io/tags/react%E8%84%9A%E6%89%8B%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>九种跨域方式实现原理</title>
+    <link href="https://ruimintan.github.io/posts/5dfd073e.html"/>
+    <id>https://ruimintan.github.io/posts/5dfd073e.html</id>
+    <published>2021-08-11T03:52:58.000Z</published>
+    <updated>2021-08-23T01:58:54.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;前后端数据交互经常会碰到请求跨域，什么是跨域，以及有哪几种跨域方式，这是本文要探讨的内容&lt;/p&gt;
+&lt;h2 id=&quot;一、什么是跨域？&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://ruimintan.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="跨域问题" scheme="https://ruimintan.github.io/tags/%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mvc与mvvm设计模式</title>
+    <link href="https://ruimintan.github.io/posts/6da92e55.html"/>
+    <id>https://ruimintan.github.io/posts/6da92e55.html</id>
+    <published>2021-08-10T12:32:24.000Z</published>
+    <updated>2021-08-14T15:09:28.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;前沿：了解设计模式对我们而言，具有很大意义，对语言没有限制，它适用于任何语言，是一种变成思想。设计模式最初有四人帮提出，有兴趣的同学可以去了解下，今天给大家主要分析mvc与mvvm设计模式&lt;/p&gt;
+&lt;h2 id=&quot;一-mvc设计模式：&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="https://ruimintan.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="设计模式" scheme="https://ruimintan.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入高阶函数应用之柯里化</title>
+    <link href="https://ruimintan.github.io/posts/c9f18867.html"/>
+    <id>https://ruimintan.github.io/posts/c9f18867.html</id>
+    <published>2021-01-28T14:38:39.000Z</published>
+    <updated>2021-08-28T14:50:32.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、高阶函数&quot;&gt;&lt;a href=&quot;#一、高阶函数&quot; class=&quot;headerlink&quot; title=&quot;一、高阶函数&quot;&gt;&lt;/a&gt;一、高阶函数&lt;/h2&gt;&lt;p&gt;高阶函数英文叫 Higher-order
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入理解JavaScript执行上下文和执行栈</title>
+    <link href="https://ruimintan.github.io/posts/b4ff910a.html"/>
+    <id>https://ruimintan.github.io/posts/b4ff910a.html</id>
+    <published>2021-01-27T12:32:54.000Z</published>
+    <updated>2021-08-27T12:43:24.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;如果你是一名 JavaScript 开发者，或者想要成为一名 JavaScript 开发者，那么你必须知道 JavaScript
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入理解JavaScript作用域和作用域链</title>
+    <link href="https://ruimintan.github.io/posts/b2f97a16.html"/>
+    <id>https://ruimintan.github.io/posts/b2f97a16.html</id>
+    <published>2021-01-26T15:23:58.000Z</published>
+    <updated>2021-08-26T15:36:28.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>this全面解析</title>
+    <link href="https://ruimintan.github.io/posts/4a95a1b.html"/>
+    <id>https://ruimintan.github.io/posts/4a95a1b.html</id>
+    <published>2021-01-24T15:45:24.000Z</published>
+    <updated>2021-08-24T15:59:46.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript数据类型转换</title>
+    <link href="https://ruimintan.github.io/posts/8bc77391.html"/>
+    <id>https://ruimintan.github.io/posts/8bc77391.html</id>
+    <published>2021-01-22T17:01:33.000Z</published>
+    <updated>2021-08-24T16:03:34.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript的数据类型及其检测</title>
+    <link href="https://ruimintan.github.io/posts/fcbfa8b1.html"/>
+    <id>https://ruimintan.github.io/posts/fcbfa8b1.html</id>
+    <published>2021-01-22T16:45:31.000Z</published>
+    <updated>2021-08-24T16:03:28.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、JavaScript有几种类型的值？&quot;&gt;&lt;a href=&quot;#一、JavaScript有几种类型的值？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端性能优化</title>
+    <link href="https://ruimintan.github.io/posts/616f4683.html"/>
+    <id>https://ruimintan.github.io/posts/616f4683.html</id>
+    <published>2021-01-22T15:39:39.000Z</published>
+    <updated>2021-08-28T14:59:46.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot; title=&quot;一、前言&quot;&gt;&lt;/a&gt;一、前言&lt;/h2&gt;&lt;p&gt;要说起前端性能优化，其实我们可以从 “输入 URL 到页面呈现” 这个知识点着手讲起。&lt;/p&gt;
+&lt;p&gt;在用户输入
+        
+      
+    
+    </summary>
+    
+      <category term="性能优化" scheme="https://ruimintan.github.io/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+    
+      <category term="性能优化" scheme="https://ruimintan.github.io/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript中的垃圾回收和内存泄漏</title>
+    <link href="https://ruimintan.github.io/posts/7aead763.html"/>
+    <id>https://ruimintan.github.io/posts/7aead763.html</id>
+    <published>2021-01-18T13:47:02.000Z</published>
+    <updated>2021-08-16T13:14:02.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/categories/JavaScript/"/>
+    
+    
+      <category term="JavaScript" scheme="https://ruimintan.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从输入URL到页面呈现</title>
+    <link href="https://ruimintan.github.io/posts/d2ae3efb.html"/>
+    <id>https://ruimintan.github.io/posts/d2ae3efb.html</id>
+    <published>2021-01-16T16:58:46.000Z</published>
+    <updated>2021-08-23T01:58:46.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+      <category term="面试题" scheme="https://ruimintan.github.io/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入理解浏览器缓存机制</title>
+    <link href="https://ruimintan.github.io/posts/260ad1cb.html"/>
+    <id>https://ruimintan.github.io/posts/260ad1cb.html</id>
+    <published>2021-01-16T12:03:23.000Z</published>
+    <updated>2021-08-15T17:00:26.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入了解浏览器存储</title>
+    <link href="https://ruimintan.github.io/posts/98839129.html"/>
+    <id>https://ruimintan.github.io/posts/98839129.html</id>
+    <published>2021-01-14T13:37:03.000Z</published>
+    <updated>2021-08-15T16:51:54.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;随着移动网络的发展与演化，我们手机上现在除了有原生 App，还能跑“WebApp”——它即开即用，用完即走。一个优秀的 WebApp
+        
+      
+    
+    </summary>
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浏览器的回流与重绘 (Reflow &amp; Repaint)</title>
+    <link href="https://ruimintan.github.io/posts/3d62f822.html"/>
+    <id>https://ruimintan.github.io/posts/3d62f822.html</id>
+    <published>2021-01-10T14:53:28.000Z</published>
+    <updated>2021-08-22T16:49:54.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;在讨论回流与重绘之前，我们要知道：&lt;/p&gt;
+&lt;p&gt;浏览器使用流式布局模型 (Flow Based
+        
+      
+    
+    </summary>
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="性能优化" scheme="https://ruimintan.github.io/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浏览器渲染原理</title>
+    <link href="https://ruimintan.github.io/posts/a074b2a4.html"/>
+    <id>https://ruimintan.github.io/posts/a074b2a4.html</id>
+    <published>2021-01-10T12:56:28.000Z</published>
+    <updated>2021-08-14T15:05:34.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="浏览器" scheme="https://ruimintan.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络安全</title>
+    <link href="https://ruimintan.github.io/posts/2812c128.html"/>
+    <id>https://ruimintan.github.io/posts/2812c128.html</id>
+    <published>2021-01-07T01:56:54.000Z</published>
+    <updated>2021-08-14T15:04:24.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot; title=&quot;一、前言&quot;&gt;&lt;/a&gt;一、前言&lt;/h2&gt;&lt;p&gt;浏览器安全可以分为三大块：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web
+        
+      
+    
+    </summary>
+    
+      <category term="网络安全" scheme="https://ruimintan.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    
+    
+      <category term="网络安全" scheme="https://ruimintan.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WebSocket 详解</title>
+    <link href="https://ruimintan.github.io/posts/53fd80d8.html"/>
+    <id>https://ruimintan.github.io/posts/53fd80d8.html</id>
+    <published>2021-01-06T13:46:49.000Z</published>
+    <updated>2021-08-14T15:04:12.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、前言&quot;&gt;&lt;a href=&quot;#一、前言&quot; class=&quot;headerlink&quot; title=&quot;一、前言&quot;&gt;&lt;/a&gt;一、前言&lt;/h2&gt;&lt;p&gt;WebSocket 是 HTML5 新增的一种全双工通信协议，客户端和服务器基于 TCP
+        
+      
+    
+    </summary>
+    
+      <category term="网络技术" scheme="https://ruimintan.github.io/categories/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="http网络" scheme="https://ruimintan.github.io/tags/http%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DNS解析</title>
+    <link href="https://ruimintan.github.io/posts/9e319110.html"/>
+    <id>https://ruimintan.github.io/posts/9e319110.html</id>
+    <published>2021-01-03T13:18:17.000Z</published>
+    <updated>2021-08-14T15:03:16.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一、用户在浏览器的地址栏中敲入了网站的网址-，会发生哪些事情呢？&quot;&gt;&lt;a href=&quot;#一、用户在浏览器的地址栏中敲入了网站的网址-，会发生哪些事情呢？&quot; class=&quot;headerlink&quot; title=&quot;一、用户在浏览器的地址栏中敲入了网站的网址
+        
+      
+    
+    </summary>
+    
+      <category term="网络技术" scheme="https://ruimintan.github.io/categories/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="http网络" scheme="https://ruimintan.github.io/tags/http%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+</feed>
